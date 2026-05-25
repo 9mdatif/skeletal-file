@@ -1,4 +1,4 @@
-# 24BHI10059_MongoDB-Task-2
+# 24BCE10066_MongoDB-Task-2
 # MongoDB Solutions and Outputs
 
 This repository/document contains MongoDB aggregation and query solutions for the given database schema consisting of:
@@ -50,7 +50,7 @@ Each question includes:
 
 ## File Included
 
-- `24BHI10059_MONGODBTASK2`
+- `24BCE10066_MONGODBTASK2`
   - Contains MongoDB code and corresponding outputs.
 
 ## Technologies Used
